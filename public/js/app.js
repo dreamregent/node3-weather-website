@@ -1,5 +1,3 @@
-console.log('Client side javascript file is loaded!')
-
 // * basic example of using fetch()
 // * this is a client-side js function
 // fetch('http://puzzle.mead.io/puzzle')
